@@ -103,6 +103,10 @@ h2{
     font-size: 40px;
 }
 
+.placeholder-dark{
+  font-size: 30px;
+}
+
 .w3-btn{
   cursor:pointer;
 }
